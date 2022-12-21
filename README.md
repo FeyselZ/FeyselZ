@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeyselZ
 - 👀 I’m interested in Programming languages 
 - 🌱 I’m currently learning ALX software Engineering(full stack)
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on any it project
 - 📫 How to reach me email: ziadfeysel@gmail.com
 
 <!---
